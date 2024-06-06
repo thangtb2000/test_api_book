@@ -1,7 +1,5 @@
 server:
   port: 8080
-  servlet:
-
 spring:
   datasource:
     url: "jdbc:mysql://localhost:3306/db_test"
